@@ -1,0 +1,52 @@
+.email-container{
+  max-width: 500px;
+  background: white;
+  font-family: sans-serif;
+  margin: 20px auto;
+  overflow: hidden;
+  border-radius: 5px;
+  text-align: center;
+
+}
+.email-background {
+  background: #eee;
+  padding: 10px;
+}
+.email-container img {
+  max-width: 100%;
+}
+.pre-header{
+  max-width: 500px;
+  background: #eee;
+  color: #eee;
+  font-size: 5px;
+}
+p {
+  margin: 20px;
+  font-size: 16px;
+  color: #666;
+  line-height: 1.5;
+}
+.cta {
+  margin: 20px;
+
+}
+.cta a {
+  text-decoration: none;
+  display: inline-block;
+  background: #0066FF;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.footer {
+  max-width: 500px;
+  background: none;
+  padding: 20px;
+  font-size: 12px;
+  font-family: sans-serif;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 5px;
+  text-align: center;
+}
